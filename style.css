@@ -89,9 +89,9 @@ p {
 
 .slogan {
     position:absolute;
-    top:1.6em;
+    top:2em;
     right:0.5em;
-    font-size: 7em;
+    font-size: 10em;
     font-family: 'Script';
     letter-spacing: 0.5px;
      -webkit-text-stroke: 1px black;
