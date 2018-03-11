@@ -65,14 +65,6 @@ body {
     text-transform: uppercase;
     letter-spacing: 0.3px;
     color: #D394FF !important;
-     -webkit-text-stroke: 1px black;
-    color: black;
-    text-shadow: 
-        3px 3px 0 #fff,
-        -1px -1px 0 #fff,
-        1px -1px 0 #fff,
-        -1px 1px 0 #fff,
-        1px 1px 0 #fff;
 }
 }
 
