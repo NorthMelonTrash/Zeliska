@@ -64,7 +64,7 @@ body {
     font-size:12em;
     text-transform: uppercase;
     letter-spacing: 0.3px;
-    color: #D394FF !important;
+    color: #ffffff !important;
 }
 }
 
@@ -81,9 +81,9 @@ p {
 
 .slogan {
     position:absolute;
-    top:1.5em;
+    top:0em;
     right:0.5em;
-    font-size: 15em;
+    font-size: 30em;
     font-family: 'Script';
     letter-spacing: 0.5px;
      -webkit-text-stroke: 1px black;
