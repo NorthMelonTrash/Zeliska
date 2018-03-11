@@ -1,16 +1,16 @@
 @font-face {
-    src: url('./Fonts/Prince Valiant.ttf');
+    src: url('./Fonts/Notera_PersonalUseOnly.ttf');
     font-family: 'Script';
 }
 
 @font-face {
-    src: url('./Fonts/LinLibertine_aDRS.ttf');
-    font-family: 'Serif';
+    src: url('./Fonts/KBAStitchInTime.ttf');
+    font-family: 'Stitch';
 }
 
 @font-face {
-    src: url('./Fonts/Cardinal.ttf');
-    font-family: 'Cardinal';
+    src: url('./Fonts/Candara.ttf');
+    font-family: 'Candara';
 }
 
 #load {
@@ -84,7 +84,7 @@ body {
 p {
     margin: 0;
     color: #fff;
-    font-family: 'Serif';
+    font-family: 'Stitch';
 }
 
 .slogan {
@@ -120,7 +120,7 @@ p {
     padding: 15px;
     border: 2px solid #fff;
     border-radius: 10px;
-    font-family: 'Cardinal';
+    font-family: 'Candara';
     font-size: 1.05em;
     text-align:center !important;
 }
