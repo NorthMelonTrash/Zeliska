@@ -54,7 +54,7 @@ body {
 .clock {
     position:absolute;
     top:0.15em;
-    left:0.2em;
+    right:0.2em;
     /*-moz-text-fill-color: white;
     -webkit-text-fill-color: white;
     -moz-text-stroke-color: #f05c9b;
@@ -90,7 +90,7 @@ p {
 .slogan {
     position:absolute;
     top:1.6em;
-    left:0.5em;
+    right:0.5em;
     font-size: 7em;
     font-family: 'Script';
     letter-spacing: 0.5px;
@@ -107,7 +107,7 @@ p {
 #search {
     position:absolute;
     top:20em;
-    left:4em;
+    right:4em;
 }
 
 #search form {
