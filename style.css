@@ -4,8 +4,8 @@
 }
 
 @font-face {
-    src: url('./Fonts/KBAStitchInTime.ttf');
-    font-family: 'Stitch';
+    src: url('./Fonts/Mf Wedding Bells.ttf');
+    font-family: 'Mf';
 }
 
 @font-face {
@@ -76,7 +76,7 @@ body {
 p {
     margin: 0;
     color: #fff;
-    font-family: 'Stitch';
+    font-family: 'Mf';
 }
 
 .slogan {
