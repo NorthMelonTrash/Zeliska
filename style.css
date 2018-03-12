@@ -81,7 +81,7 @@ p {
 
 .slogan {
     position:absolute;
-    top:0.1em;
+    top:0em;
     right:0.1em;
     font-size: 14em;
     font-family: 'Script';
@@ -98,7 +98,7 @@ p {
 
 #search {
     position:absolute;
-    top:13em;
+    top:10em;
     right:1em;
 }
 
