@@ -62,7 +62,7 @@ body {
     -moz-text-stroke-width: 3px;  
     -webkit-text-stroke-width: 3px;*/
     font-size:12em;
-    text-transform: uppercase;
+    text-transform: lowercase;
     letter-spacing: 0.3px;
     color: #ffffff !important;
 }
